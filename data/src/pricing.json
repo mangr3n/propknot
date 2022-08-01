@@ -1,0 +1,16 @@
+{
+  "fixed": {
+    "service_charge_rate": 0.25,
+    "cleaning_fee": 600,
+    "venue_supervisor": 750
+  },
+  "optional": {
+    "ceremony": 1000,
+    "coordination": 2500,
+    "event_hour": 2000,
+    "vendor_hour": 500
+  },
+  "foxchase-buffet-gold-100": 140,
+  "foxchase-buffet-gold-125": 137.5,
+  "foxchase-buffet-gold-150": 135
+}

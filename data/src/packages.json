@@ -1,0 +1,39 @@
+{
+  "Gold": {
+    "name": "Gold",
+    "description": "GOLD PACKAGE (Full-Service with Food)",
+    "damage_deposit": 1000,
+    "details": [
+      {
+        "bold": "Our \"Gold Package\" includes the use of our Event Space Hall",
+        "normal": "The Grand Ballroom, Small Ballroom, Outdoor Patio, as well as 1 Private Suite with Full Bath"
+      },
+      {
+        "bold": "Non-alcoholic Beverage Package is also included",
+        "normal": "Coke, Diet Coke, GingerAle, Sprite, Orange Soda, and Water.  Lemon and Limes.  Ice. Hot Coffee and Tea Station."
+      },
+      {
+        "bold": "Equipment included are",
+        "normal": "Gold Chivari Chairs, White Patio Chairs, Round Guest Tables, Banquet Table and Cake Table"
+      },
+      {
+        "bold": "American Dinner Menu will include",
+        "normal": "3 appetizers(stationed or passed), 2 Main Entrees, 3 Side Dishes, Salad with 1 Dressing, Bread and Butter"
+      },
+      {
+        "normal": "We will also provide you with linens, napkins, china, silverware, glassware, acrylic charger, and all serving equipment for food"
+      },
+      {
+        "bold": "Hours of Package",
+        "normal": "2 hour set up + 5 hour event time + 2 hour clean up"
+      },
+      {
+        "bold": "Staff includes",
+        "normal": "Venue Supervisor, Banquet Captain, Banquet Servers, Bartenders, and Food Runners.  Set-Up and Breakdown completed by Staff"
+      },
+      {
+        "normal": "Complementary Cake Cutting and Champagne Pouring"
+      }
+    ]
+  }
+}

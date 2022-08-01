@@ -1,0 +1,14 @@
+{
+  "name": "propknot",
+  "version": "1.0.0",
+  "description": "Generate Proposals for TheManorsVA.com Events",
+  "main": "index.js",
+  "author": "David Boyer",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "date-fns": "^2.29.1",
+    "docx": "^7.4.1",
+    "nanoutils": "^0.2.0"
+  }
+}
